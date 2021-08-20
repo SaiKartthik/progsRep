@@ -25,19 +25,9 @@ int main()
       x = x/10;
       i = i+1;
       cout<<i<<"\n";
-    /* code */
+  
   } while(x>=1);
-  // while(x>=1)
-  // {
-  //   temp = x%10;
-  //   sum = sum + fac(temp);
-  //   x = x/10;
-  //   i = i+1;
-  //   cout<<i<<"\n";
-  // }
-  // cout<<sum;
-  // int s = fac(5);
-  // cout<<s ;
+ 
 
   if(sum = x)
     cout<<"valid";
